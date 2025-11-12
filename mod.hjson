@@ -5,4 +5,4 @@ description: "A mod made by a small team to new content for Mindustry. We hope y
 version: "1.0"
 minGameVersion: "153"
 dependencies: [ ]
-hidden: true
+hidden: false
